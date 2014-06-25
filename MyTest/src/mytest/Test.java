@@ -6,4 +6,8 @@ public class Test {
 		String ccc="ccc";
 		String ddd="ddd";
 	}
+	
+	public void newFunction(){
+		
+	}
 }
