@@ -7,4 +7,8 @@ public class Test {
 		String ddd="ddd";
 		String ddd="ddd";
 	}
+	
+	public void newFunction(){
+		
+	}
 }
